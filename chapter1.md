@@ -8,7 +8,13 @@ UIBars :
 
 Navigation Bars
 
-
-
 Tool Bars
+
+
+
+* **Avoid using a segmented control in a toolbar.**
+  Segmented controls let people switch contexts, whereas a toolbar is specific to the current screen. If you need to provide a way to switch contexts, consider using a tab bar instead. See
+  [Tab Bars](https://developer.apple.com/ios/human-interface-guidelines/ui-bars/tab-bars/)
+
+.
 
