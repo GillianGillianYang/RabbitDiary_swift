@@ -6,5 +6,9 @@ drag in files :
 
 \(2\) projects &gt; add Linked Frameworks and Libraries : libsqlite3.tdb
 
-\(3\)
+\(3\)   function : 
+
+
+
+
 
