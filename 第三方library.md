@@ -1,10 +1,10 @@
 # FMDB
 
-drag in files
+1. drag in files
 
-in bridge.h ::  \#import“FMDB.h”
+1. in bridge.h ::  \#import“FMDB.h”
 
- projects &gt; add Linked Frameworks and Libraries : libsqlite3.tdb
+1. projects &gt; add Linked Frameworks and Libraries : libsqlite3.tdb
 
-   function :
+function :
 
