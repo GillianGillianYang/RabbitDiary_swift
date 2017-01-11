@@ -14,7 +14,11 @@ facebook 3partLibrary  in swift3
 
 ## Steps :
 
+[FBAppID](https://sofree.cc/apply-facebook-app-id/)
+
 IOS 10 :_project &gt; targets -&gt;Capabilities -&gt;Keychain Sharing -&gt;Toggle Switch ON_
+
+
 
 ## error :
 
