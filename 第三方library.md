@@ -6,7 +6,7 @@
 
 3. projects &gt; add Linked Frameworks and Libraries : libsqlite3.tdb
 
-1. function :
+4. function :
 
 
 
