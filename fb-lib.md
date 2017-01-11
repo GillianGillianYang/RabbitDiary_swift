@@ -12,3 +12,5 @@ facebook 3partLibrary  in swift3
 
 
 
+_project &gt; targets -&gt;Capabilities -&gt;Keychain Sharing -&gt;Toggle Switch ON_
+
