@@ -8,9 +8,5 @@ facebook 3partLibrary  in swift3
 
 [http://ashishkakkad.com/2015/05/facebook-login-swift-language-ios/](#)
 
-
-
-
-
-_project &gt; targets -&gt;Capabilities -&gt;Keychain Sharing -&gt;Toggle Switch ON_
+IOS 10 :_project &gt; targets -&gt;Capabilities -&gt;Keychain Sharing -&gt;Toggle Switch ON_
 
