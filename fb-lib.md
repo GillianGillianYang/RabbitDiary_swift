@@ -1,6 +1,6 @@
 # FB  3part  library
 
-facebook swift3
+facebook 3partLibrary  in swift3
 
 參考資料：
 
