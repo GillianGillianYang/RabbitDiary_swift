@@ -1,6 +1,4 @@
-FB  3part  library
-
-
+# FB  3part  library
 
 facebook swift3
 
@@ -14,5 +12,5 @@ facebook swift3
 
 cocoa pods :
 
-http://www.appcoda.com.tw/cocoapods/
+[http://www.appcoda.com.tw/cocoapods/](http://www.appcoda.com.tw/cocoapods/)
 
