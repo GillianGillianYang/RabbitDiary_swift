@@ -12,5 +12,7 @@ IOS 10 :_project &gt; targets -&gt;Capabilities -&gt;Keychain Sharing -&gt;Toggl
 
 
 
-http://stackoverflow.com/questions/27837935/facebook-sdk-fbsession-no-appid-provided
+error : 
+
+[Add a string value with your app ID for the key FacebookAppID to the Info.plist or call \[FBSDKSettings setAppID:\]](http://stackoverflow.com/questions/27837935/facebook-sdk-fbsession-no-appid-provided).' \(2015\)
 
