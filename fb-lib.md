@@ -4,7 +4,7 @@
 
 ## 參考 ：
 
-facebook 3partLibrary  in swift3
+facebook 3partLibrary  in swift3xw
 
 [官方資料](https://developers.facebook.com/docs/swift/login)
 
