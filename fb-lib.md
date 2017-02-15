@@ -10,7 +10,7 @@ facebook 3partLibrary  in swift3xw
 
 參考資料：[cocoa pods](http://www.appcoda.com.tw/cocoapods/)
 
-[http://ashishkakkad.com/2015/05/facebook-login-swift-language-ios/](#)
+* [http://ashishkakkad.com/2015/05/facebook-login-swift-language-ios/](#)
 
 ## Steps :
 
@@ -20,5 +20,7 @@ IOS 10 :_project &gt; targets -&gt;Capabilities -&gt;Keychain Sharing -&gt;Toggl
 
 ## error :
 
-[Add a string value with your app ID for the key FacebookAppID to the Info.plist or call \[FBSDKSettings setAppID:\]](http://stackoverflow.com/questions/27837935/facebook-sdk-fbsession-no-appid-provided).' \(2015\)
+* [Add a string value with your app ID for the key FacebookAppID to the Info.plist or call \[FBSDKSettings setAppID:\]](http://stackoverflow.com/questions/27837935/facebook-sdk-fbsession-no-appid-provided).' \(2015\)
+
+* [https://github.com/fastlane/fastlane/issues/6519√](https://github.com/fastlane/fastlane/issues/6519)
 
