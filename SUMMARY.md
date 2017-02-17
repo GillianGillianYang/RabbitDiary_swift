@@ -5,4 +5,5 @@
 * [FMDB](第三方library.md)
 * [FB lib](fb-lib.md)
 * SwiftHttp
+* [Javascript Learning](javascript-learning.md)
 
