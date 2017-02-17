@@ -6,7 +6,7 @@
 
 callback 開始解釋
 
-http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6
+[http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6](http://huli.logdown.com/posts/292655-javascript-promise-generator-async-es6)
 
 ## Refereance Book :
 
