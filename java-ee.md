@@ -8,8 +8,6 @@
 
 在Web的世界中，Java從最早的Servlet/JSP，發展到JSTL/JSF，而third party也有action-based的Struts及Spring MVC，或component-based的GWT, ZK等
 
-
-
 那RESTful Web Services又是什麼呢? RESTful Web Services\(或稱RESTful Web API\)是以HTTP為基礎，必且有以下三個特色
 
 1. 所有的API或是以Resource的形式存在，例如 htttp://www.example.com/products/12345
