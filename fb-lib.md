@@ -24,7 +24,8 @@ IOS 10 :_project &gt; targets -&gt;Capabilities -&gt;Keychain Sharing -&gt;Toggl
 
 * [https://github.com/fastlane/fastlane/issues/6519√](https://github.com/fastlane/fastlane/issues/6519)
 
-* **Falling back to storing access token in NSUserDefaults because of simulator bug **http://stackoverflow.com/questions/40988537/facebook-login-in-swift-3
+* **Falling back to storing access token in NSUserDefaults because of simulator bug **[http://stackoverflow.com/questions/40988537/facebook-login-in-swift-3](http://stackoverflow.com/questions/40988537/facebook-login-in-swift-3)
 
+* 
 
 
